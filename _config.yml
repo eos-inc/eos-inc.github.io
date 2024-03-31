@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: EOS Inc IT Docs
+description: IT Documentation for EOS Inc
+logo: /docs/assets/images/eos-inc-logo-small.png
+show_downloads: false
